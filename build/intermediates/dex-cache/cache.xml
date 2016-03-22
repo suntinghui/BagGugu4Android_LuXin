@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/gson-2.2.4-82218ac256a17ca42f3b8fb88ad4974d0ee6a7d5.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/disklrucache-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdfda74b941164bbf3622347940ba0dd88d2dc91">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/disklrucache-2.0.1-a3ddf9a030020e03a16ad8df5d927421f3a65936.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/jackson-core-asl-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af39988dc5ec30dba5f327791676d67501e79f93">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/jackson-core-asl-1.9.5-feb98e09774ffde24894a4227bcf59709b9ee26d.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/listviewanimations_lib-core-slh_3.1.0-3006516912f49ebf97e93f95691c4fbd83dc19a9.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/classes-44cf5429627de88f5d46c516e49f8b9825444374.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="931ab461b91c2a2fd5c697e7f622cdca8c2b3ac5">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/SocialSDK_QQZone_3-dd3cd5eb1740f035e298bed171ead3bfd32202cd.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/library-1.0.19-7a6df70598ea8b1732b794e035240b6ffa2d5dd0.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/YTX_SDK_Android_4.0.0.1r.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f210a4da9d1380035bfbdd11f77e4500caac5d5a">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/YTX_SDK_Android_4.0.0.1r-6ed8bb26da1a4df385b5fdbe91433125bdb1c88b.jar" />
+    </item>
+    <item
+        jar="/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/support-annotations-23.0.1-4a8e767e65c7ce1b37d0b7d0bd60954b8f2d4dab.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/AndroidEasingFunctions-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ae609e93bcbe4988aa371ab615b7abb43e9399bf">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/AndroidEasingFunctions-1.0.0-70c01a2c1f266a806431e2b0a5574e3508ea059b.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/jackson-mapper-asl-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a731291051b447bbf8da50f232688e34d3d1d53c">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/jackson-mapper-asl-1.9.5-f8a9cbd00e8e2ee673f4198960bcdd3955416103.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_1-c7bee73d157efd86d076df0ed0e871d1b9d4dfd5.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/internal_impl-23.0.1-917521ffba8104080fec736cd90a7f557fb005f4.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/classes-d99f58a7d4817638b3c3512babb34a62e97c403b.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/umeng-onlineconfig_v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a1276002febee0f4b50d4ba1b94d41a65d6c75d">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/umeng-onlineconfig_v1.0.0-e1694d1c77cf82ce6bf2517c98c82276f1fe1692.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/com.umeng.message.lib_v2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3112ab21f6d213069b5606fd1b47524630be010e">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/com.umeng.message.lib_v2.0.0-b00708c6597837270d8dd6b67b6b56844332b29a.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/rebound-0.3.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="da23f0d13a0a572e01a1b53b547cbdc7a5b52209">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/rebound-0.3.7-faa453b9392a6e550f435bd1445d9c87b6aecdab.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/AndroidViewAnimations-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8db345547f7a025130d1622f2608ec68e761641">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/AndroidViewAnimations-1.1.3-f842719ebdf654c366f01f0f28e02e44df8819a9.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/listviewanimations_lib-core_3.1.0-60047b39c983d3801b05dee7d1362572f20e018b.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/nineoldandroids-2.4.0-4bcbbfb98a66d3107c797afee8e9c81cfdccbebc.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/SocialSDK_QQZone_2-b94e90ee89ce23ab0b2ef133fba2767be75dadb6.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4688dc44ccef22b7f057301ee6abbe187a8d35ea">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/umeng_social_sdk-7290a6098267bdab3a76c5dbf8b3871e9497799e.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/jackson-jaxrs-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81f50fa27e9c049aafd0d15ced64667addc3d5d1">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/jackson-jaxrs-1.9.5-fcce26db3b8bf27f358dfd5463b952dadbcfc06a.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/org.json.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fb50781fad714570ba8529c867bb5aef5713ba1">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/org.json-e312685175899282bb1d532c594e754f4cb0ea30.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/SocialSDK_QQZone_1-67002bb2f32a182e51c483659b406a6b18cf70dd.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/jxl.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/jxl-4f1e1651c9914a1ee158aa9c9b619cc74989e0f4.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4aa8d4cde1e2201e5360daaae4bd9fdbf4194d2a">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_2-2ac378b0786f50aab23ac94b139cfb2e1bcb02cb.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/httpmime-4.1.3-aad1ef4ed4c288fcdd61e820ec6543d805613285.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/com.umeng.fb.v5.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="877e13f8424604c708dfd061b2ef731c13289519">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/com.umeng.fb.v5.1.0-84ab98d7bdbe65983b7d318edd646a70190a7560.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/commons-lang3-3.3.2-ab392da1f2e9797023855f09f910d6d5ffe1c57e.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/umeng-update-v2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f00af139315de2cd24466f0c72e497fccd0b631">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/umeng-update-v2.6.0-e0a5ca5b77d9efa77f8ab1f75d4006d8dcdc6c94.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/jackson-xc-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b5530ce6fdd2379c3f55db31028e28726457917">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/jackson-xc-1.9.5-2f15e95a1c721c5681f10af10257fdd1082f8c0a.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/easyandroidanimationslibrary-v0.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d390299222db75e62708400b299080d122b28b">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/easyandroidanimationslibrary-v0.5-44aeccc02bac31146b61d5dcc0b68a90071adc57.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/umeng-analytics-v5.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdbe5b692334ae8452fa5aa9ba2982fef4a6fff2">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/umeng-analytics-v5.4.1-b165d67d6ea8933acf5f4fc40f3f8887dd918af1.jar" />
+    </item>
+    <item
+        jar="/workspace/androidstudio/BagGugu4Android_LuXin/libs/listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/workspace/androidstudio/BagGugu4Android_LuXin/build/intermediates/pre-dexed/release/listviewanimations_lib-manipulation_3.1.0-a2eabe29f8db94ed243faf45f33033cc6813a57b.jar" />
+    </item>
+
+</items>
