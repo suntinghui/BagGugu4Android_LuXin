@@ -150,7 +150,7 @@ public class ItemDescOfScheduledView extends LinearLayout implements OnClickList
         availableSellAmountTextView.setText(dto.getSurplusMoney() + "元");
         expectedRateTextView.setText(dto.getMaxRate() + "%");
         periodTextView.setText(dto.getMinPeriod() + "");
-        repaymentTypeTextView.setText("按天付息，到期还本");
+        repaymentTypeTextView.setText("利息按天累计，到期还本付息");
         recordsCountTextView.setText(dto.getPeople() + "");
 
         // 判断是否已经售完

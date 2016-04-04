@@ -84,7 +84,7 @@
             android:layout_marginLeft="15dip"
             android:layout_marginRight="15dip"
             android:lineSpacingExtra="3dip"
-            android:text="保障金在冻结期间，可以随时申请退出物业宝活动，金邦物业会在确认后3个工作日内将物业保障金退还业主。\n退还业主后，物业费减免活动自动取消。"
+            android:text="保障金在冻结期间，可以随时申请退出物业宝活动，鲁信网贷会在确认后3个工作日内将物业保障金退还业主。\n退还业主后，物业费减免活动自动取消。"
             android:textColor="#999999"
             android:textSize="12sp" />
 

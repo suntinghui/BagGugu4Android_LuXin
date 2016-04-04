@@ -287,7 +287,7 @@ public class HomeActivity extends BaseActivity implements OnClickListener {
         currentLayout.getTipTextView().setBackgroundResource(R.drawable.rounded_blue_corner);
         currentLayout.getTipTextView().setVisibility(View.INVISIBLE);
 
-        currentLayout.getSbTextView().setText("房屋金融有保障，收益天天见");
+        currentLayout.getSbTextView().setText("投资灵活，提现便捷");
         currentLayout.getMbTextView().setVisibility(View.GONE);
         currentLayout.getUserCountTextView().setVisibility(View.GONE);
         currentLayout.getCircleLayout().setBackgroundResource(R.drawable.home_circle_02);
@@ -314,12 +314,12 @@ public class HomeActivity extends BaseActivity implements OnClickListener {
         scheduledLayout.setLeftImageView(R.drawable.home_item_02);
         scheduledLayout.setLineColor(Color.parseColor("#FD4343"));
 
-        scheduledLayout.setTitle("鲁信定期", false);
+        scheduledLayout.setTitle("鲁信定期", true);
         scheduledLayout.getTipTextView().setText("月加息再加2%");
         scheduledLayout.getTipTextView().setBackgroundResource(R.drawable.rounded_green_corner);
         scheduledLayout.getTipTextView().setVisibility(View.INVISIBLE);
 
-        scheduledLayout.getSbTextView().setText("房屋金融有保障，收益天天见");
+        scheduledLayout.getSbTextView().setText("安全有保障，收益天天见");
         scheduledLayout.getMbTextView().setVisibility(View.GONE);
         scheduledLayout.getUserCountTextView().setVisibility(View.GONE);
         scheduledLayout.getCircleLayout().setBackgroundResource(R.drawable.home_circle_01);
@@ -407,7 +407,7 @@ public class HomeActivity extends BaseActivity implements OnClickListener {
         } else {
             currentLayout.getStateTextView().setText("已售完");
 
-            currentLayout.setColor(Color.parseColor("#999999"));
+            currentLayout.setColor(Color.parseColor("#cccccc"));
         }
         try {
             int progress = 100 - (int) (100 * Double.parseDouble(hqDto.getSurplusMoney()) / Double.parseDouble(hqDto.getTotalMoney()));
@@ -432,7 +432,7 @@ public class HomeActivity extends BaseActivity implements OnClickListener {
         } else {
             scheduledLayout.getStateTextView().setText("已售完");
 
-            scheduledLayout.setColor(Color.parseColor("#999999"));
+            scheduledLayout.setColor(Color.parseColor("#cccccc"));
         }
         try {
             int progress = 100 - (int) (100 * Double.parseDouble(dtDto.getSurplusMoney()) / Double.parseDouble(dtDto.getTotalMoney()));

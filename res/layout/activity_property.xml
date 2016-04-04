@@ -101,7 +101,7 @@
                     android:layout_marginTop="5dip"
                     android:drawableLeft="@drawable/bg_white_circle_3"
                     android:drawablePadding="10dip"
-                    android:text="物业公司提供十年物业服务担保。"
+                    android:text="燎原控股集团提供十年物业服务担保。"
                     android:textColor="#ffffff"
                     android:textSize="12sp" />
 

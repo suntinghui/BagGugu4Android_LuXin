@@ -274,7 +274,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="银行卡"
-                    android:textColor="#1caff6"
+                    android:textColor="#c70a0d"
                     android:textSize="17sp" />
 
                 <TextView
@@ -283,7 +283,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginRight="20dip"
                     android:text=""
-                    android:textColor="#1caff6"
+                    android:textColor="#c70a0d"
                     android:textSize="15sp" />
 
                 <ImageView

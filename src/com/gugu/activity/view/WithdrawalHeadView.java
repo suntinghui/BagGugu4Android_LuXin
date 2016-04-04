@@ -63,7 +63,7 @@ public class WithdrawalHeadView extends LinearLayout implements OnClickListener 
 			this.typeTextView.setText("定投金额");
 			this.transferTextView.setText("赎回到");
 			this.descTextView.setText("账户余额");
-			this.tipTextView.setText("随时赎回，提前赎回按年化收益3%计算");
+			this.tipTextView.setText("7日后可赎回，提前赎回按年化收益3%计算；\n提现1万以内T＋1到账，1万以上T＋2到账，节假日顺延。");
 			this.markTextView.setText("因您的收益按日到账，和分期(每个自然月平均为30日)存在账期冲突，为保证债务债权再次顺利对接，我们会扣除定投期内最近30天的收益。");
 
 		} else if (this.type == TYPE_QT) {

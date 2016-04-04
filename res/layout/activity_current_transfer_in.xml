@@ -121,7 +121,7 @@
                 android:layout_marginLeft="15dip"
                 android:layout_weight="1"
                 android:background="@null"
-                android:hint="请输入投资金额"
+                android:hint="每人每日限投2万"
                 android:inputType="numberDecimal"
                 android:maxLength="10"
                 android:textColor="#333333"

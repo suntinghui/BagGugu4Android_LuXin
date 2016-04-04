@@ -111,7 +111,7 @@ public class MessageShareDialog extends Dialog implements View.OnClickListener {
         circleMedia.setShareContent(dto.getContent());
         circleMedia.setTitle(dto.getTitle());
         circleMedia.setTargetUrl(Constants.HOST_IP + "/share/message/" + dto.getId());
-        circleMedia.setShareImage(new UMImage(this.context, R.drawable.share_money_1000_wechat));
+        circleMedia.setShareImage(new UMImage(this.context, Constants.HOST_IP + dto.getLogo()));
         mController.setShareMedia(circleMedia);
         mController.postShare(this.context, SHARE_MEDIA.WEIXIN_CIRCLE, new SnsPostListener() {
             @Override
@@ -133,7 +133,7 @@ public class MessageShareDialog extends Dialog implements View.OnClickListener {
         qzone.setShareContent(dto.getContent());
         qzone.setTitle(dto.getTitle());
         qzone.setTargetUrl(Constants.HOST_IP + "/share/message/" + dto.getId());
-        qzone.setShareImage(new UMImage(this.context, R.drawable.share_money_1000_wechat));
+        qzone.setShareImage(new UMImage(this.context, Constants.HOST_IP + dto.getLogo()));
 
         UMSocialService mController = UMServiceFactory.getUMSocialService("com.umeng.share");
         mController.setShareMedia(qzone);

@@ -158,6 +158,15 @@ public class RegisterActivity extends BaseActivity implements OnClickListener {
         dialog.show();
     }
 
+    private void registerSuccess() {
+        Intent intent = new Intent(RegisterActivity.this, GestureLockSetupActivity.class);
+        intent.putExtra("TYPE", GestureLockSetupActivity.TYPE_REGISTER);
+        RegisterActivity.this.startActivity(intent);
+
+        RegisterActivity.this.setResult(RESULT_OK);
+        RegisterActivity.this.finish();
+    }
+
     private boolean checkValue() {
         if (TextUtils.isEmpty(codeEditText.getText().toString().trim())) {
             Toast.makeText(this, "请输入验证码", Toast.LENGTH_SHORT).show();
@@ -222,7 +231,9 @@ public class RegisterActivity extends BaseActivity implements OnClickListener {
 
                         ActivityUtil.getSharedPreferences().edit().putString(Constants.USERID, dto.getData().getUserId()).commit();
 
-                        showSuccessDialog();
+                        //showSuccessDialog();
+
+                        registerSuccess();
 
                     } else {
                         Toast.makeText(RegisterActivity.this, dto.getMsg(), Toast.LENGTH_SHORT).show();

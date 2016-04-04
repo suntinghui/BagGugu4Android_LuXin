@@ -87,7 +87,7 @@
             android:layout_marginLeft="15dip"
             android:layout_weight="1"
             android:background="@null"
-            android:hint="请输入转出金额"
+            android:hint="每人每日限赎2万"
             android:inputType="numberDecimal"
             android:maxLength="10"
             android:textColor="#333333"
@@ -120,7 +120,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dip"
         android:layout_marginTop="15dip"
-        android:text="如需提现请到账户余额提现至银行卡操作。"
+        android:text="如需提现请到账户余额提现至银行卡操作。\n提现1万以内T＋1到账，1万以上T＋2到账，节假日顺延。"
         android:textColor="#999999"
         android:textSize="12sp" />
 

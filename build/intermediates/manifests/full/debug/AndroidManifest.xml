@@ -1203,13 +1203,13 @@
 
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="5512b0d3fd98c5bdaf0004d5" />
+            android:value="56f0dab567e58e1850000063" />
         <meta-data
             android:name="UMENG_CHANNEL"
             android:value="Umeng" />
         <meta-data
             android:name="UMENG_MESSAGE_SECRET"
-            android:value="297b4e86b4839a3940c7b26ae3ad1c15" />
+            android:value="650ed5899f1cf79e619b1fc2794997c6" />
 
         <receiver
             android:name="com.umeng.message.NotificationProxyBroadcastReceiver"

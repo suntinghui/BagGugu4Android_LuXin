@@ -168,7 +168,7 @@
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/dt_img_03"
                     android:drawablePadding="5dip"
-                    android:text="200元起 日返息"
+                    android:text="200元起投"
                     android:textColor="#aaaaaa"
                     android:textSize="12sp" />
 

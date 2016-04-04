@@ -52,7 +52,7 @@ import com.android.volley.Response;
  */
 public class InvestmentCurrentLayout extends LinearLayout implements View.OnClickListener {
 
-    private List<String> messageList = Arrays.asList(new String[]{"租房金融", "购房首付贷"});
+    private List<String> messageList = Arrays.asList(new String[]{"抵押债权", "应收债权", "拆借债权", "市政PPP债权"});
 
     private BaseActivity context;
 

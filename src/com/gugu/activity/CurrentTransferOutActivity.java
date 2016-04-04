@@ -51,7 +51,7 @@ public class CurrentTransferOutActivity extends BaseActivity implements View.OnC
 
     private void initView() {
         TextView titleTextView = (TextView) this.findViewById(R.id.titleTextView);
-        titleTextView.setText("转出");
+        titleTextView.setText("活期赎回");
 
         Button backButton = (Button) this.findViewById(R.id.backBtn);
         backButton.setOnClickListener(this);

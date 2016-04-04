@@ -10,11 +10,10 @@ public class Constants {
     public static final int PAGESIZE = 20;
 
     // 生产
-    public static final String HOST_IP = "http://www.baggugu.com";
-    public static final String HOST_IP_REQ = HOST_IP + ":8715";
+    public static final String HOST_IP = "http://182.92.4.182:8111";
+    public static final String HOST_IP_REQ = HOST_IP;
 
-    // 测试
-//    public static final String HOST_IP = "http://192.168.1.101:8715";
+//    public static final String HOST_IP = "http://192.168.1.100:8715";
 //    public static final String HOST_IP_REQ = HOST_IP;
 
     public static final String PROTOCOL_IP = HOST_IP + "/app/agreement.html";
@@ -39,6 +38,8 @@ public class Constants {
 
     public static boolean LuckyDraw = false; // 投资成功后是否有抽奖活动
 
+
+    // 只有微信待确定
     public static final String WX_APP_ID = "wx2e4661c7c5c4b28a";
     public static final String WX_AppSecret = "f12ac04cb345abd1bc9d23a699094a0b";
 
@@ -65,6 +66,6 @@ public class Constants {
     public static final String REG_DETAIL_ADDRESS = "^\\S{10,100}$";
 
     public static final String shareTitle = "推荐我心目中的理财应用。【鲁信网贷-活存活取】";
-    public static final String shareContent = "鲁信网贷 10%活期收益，万人参与超爽体验！注册就送1000元特权金。";
+    public static final String shareContent = "鲁信网贷，万人参与超爽体验！注册就送1000元特权金。";
 
 }

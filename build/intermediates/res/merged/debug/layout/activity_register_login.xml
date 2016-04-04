@@ -145,7 +145,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dip"
             android:text="100％资金垫付 提供第三方担保"
-            android:textColor="#12d067"
+            android:textColor="#f9a800"
             android:textSize="13sp" />
     </LinearLayout>
 

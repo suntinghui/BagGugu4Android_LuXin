@@ -583,7 +583,7 @@
                     android:id="@+id/repaymentTypeTextView"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="按天付息，到期还本"
+                    android:text="利息按天累计，到期还本付息"
                     android:textColor="#666666"
                     android:textSize="15sp" />
             </LinearLayout>
@@ -758,7 +758,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dip"
-                    android:text="按天付息，到期还本"
+                    android:text="利息按天累计，到期还本付息"
                     android:textColor="#999999"
                     android:textSize="13sp" />
             </LinearLayout>

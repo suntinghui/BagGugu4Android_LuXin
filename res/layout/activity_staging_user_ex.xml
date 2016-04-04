@@ -394,6 +394,25 @@
                     android:text="以个人或企业经营收入的应收账款为保障，还款来源稳定，担保足额。"
                     android:textColor="#999999"
                     android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:drawableLeft="@drawable/dot_orange"
+                    android:drawablePadding="5dip"
+                    android:text="市政PPP项目债权"
+                    android:textColor="#666666"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginTop="8dip"
+                    android:text="以政府合作的PPP项目作为债权投资主体，还款来源由PPP项目合资公司提供足额担保。"
+                    android:textColor="#999999"
+                    android:textSize="13sp" />
             </LinearLayout>
 
             <View

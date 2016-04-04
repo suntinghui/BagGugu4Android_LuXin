@@ -96,7 +96,7 @@ public class VoteOfScheduledAdapter extends BaseAdapter {
         holder.rateTextView.setText(debtDto.getMaxRate() + "");
         holder.periodTextView.setText(debtDto.getMaxPeriod() + "");
         holder.totalMoneyTextView.setText(debtDto.getTotalMoney2());
-        holder.limitAmountTextView.setText(debtDto.getLimitMoney() + "元起 日返息");
+        holder.limitAmountTextView.setText(debtDto.getLimitMoney() + "元起投");
 
         holder.progressBar.setProgress(this.calcProgress(debtDto.getSurplus(), debtDto.getTotalMoney()));
 
